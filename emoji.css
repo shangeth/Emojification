@@ -1,0 +1,18 @@
+body{
+    /*background-image: url("https://wallpaper-gallery.net/images/emoji-faces-wallpaper/emoji-faces-wallpaper-5.jpg");*/
+    /*background-image: url("http://feellfeed.pw/wp-content/uploads/2018/04/164762938-smiley-wallpapers.jpg");*/
+    /*background-image: url("http://getwallpapers.com/wallpaper/full/1/0/3/69790.jpg");*/
+    background-image: url("http://getwallpapers.com/wallpaper/full/a/7/3/69801.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#contain{
+    background: rgba(0,0,0,0.8);
+    color: floralwhite;
+}
+
+#sentenceHelp{
+    color: red;
+}
